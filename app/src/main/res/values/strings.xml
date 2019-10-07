@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreKeepingApp</string>
+    <string name="score_1_label">Score 1</string>
+    <string name="score_value">95</string>
+    <string name="score_2_label">Score 2</string>
+    <string name="score_2_value">70</string>
+    <string name="button_decs">-</string>
+    <string name="button_inc">+</string>
+    <string name="button2_decs">-</string>
+    <string name="button2_inc">+</string>
+</resources>
